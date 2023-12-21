@@ -1,3 +1,4 @@
+# Voting 
 age=eval(input("Enter the age"))
 if(age>18):
     print("ur eligble for voting")

@@ -1,3 +1,4 @@
+# to find the vowels
 a=(input('Enter a Character:'))
 if type(a)==str:
     if a=='a' or a=='e' or a=='i' or a=='o' or a=='u':
