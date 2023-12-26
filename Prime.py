@@ -1,3 +1,4 @@
+#Prime number
 num=int(input("Enter a number"))
 i=1
 temp=False

@@ -1,3 +1,4 @@
+# printing capcha
 import random
 capcha=''
 while len(capcha)<6:

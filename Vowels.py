@@ -1,3 +1,4 @@
+#Finding no.of vowels
 char=eval(input("enter a string"))
 i=0
 count=0

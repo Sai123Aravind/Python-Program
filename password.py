@@ -1,3 +1,4 @@
+# Printing of a Password with some rules
 password=eval(input("enter a the password:-"))
 Validate={'upper':0,'lower':0,'number':0,'special':0}
 if len(password)>=8:

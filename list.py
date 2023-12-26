@@ -1,3 +1,4 @@
+#Adding the sum of the numbers in the list
 def list(a):
     num=0
     for var in a:

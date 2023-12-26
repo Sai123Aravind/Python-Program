@@ -1,7 +1,6 @@
-
-
+#factoril
 def fact():
-    num=6
+    num=2
     i=1
     fact=1
     while(i<num):

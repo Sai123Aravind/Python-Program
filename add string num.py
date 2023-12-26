@@ -1,3 +1,4 @@
+#Adding numbers in String
 a=("saiaravind22")
 add=0
 for var in a:

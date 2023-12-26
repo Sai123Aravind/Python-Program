@@ -1,3 +1,4 @@
+#printing of seven table using break keyword
 num=7
 i=1
 while True:

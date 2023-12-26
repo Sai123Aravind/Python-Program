@@ -1,4 +1,0 @@
-char=eval(input("Enter a String value))
-i=0
-char1=''
-while(i<len(char)):

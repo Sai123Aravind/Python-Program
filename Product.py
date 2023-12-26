@@ -1,3 +1,4 @@
+#Product of numbers in list
 sum=0
 product=0
 a=[1,9,11,23,65,78,43]

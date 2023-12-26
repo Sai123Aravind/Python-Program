@@ -1,3 +1,4 @@
+# to count numbers in string
 def string():
     char=eval(input("Enter a string"))
     count=0

@@ -1,3 +1,4 @@
+#printing otp
 import random
 otp=''
 while len(otp)<4:

@@ -1,8 +1,10 @@
-#Finding length of String in arguments
+#finding length of using return kw
+b=[1,2,3]
 def length(a):
-    
     count=0
     for var in a:
         count=count+1
     print(count)
-length('gdegdididhddi')
+    return count
+c=length(b)
+print(c)

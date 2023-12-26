@@ -1,3 +1,4 @@
+#factorial
 result=[]
 for vr in range(1,10):
     fact=1

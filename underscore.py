@@ -1,3 +1,4 @@
+#Finding no.of vowels , consonets,and special charcters i String
 a=eval(input("Enter a String"))
 vowel_count=0
 consonent_count=0

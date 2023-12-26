@@ -1,3 +1,4 @@
+#Finding the Frequency
 def frequncy(a,b):
     count=0
     for var in a:

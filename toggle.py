@@ -1,3 +1,4 @@
+#Replacing the 0 to 1 and 1 to 0
 a=eval(input("enter a number with 0&1"))
 i=0
 num=''

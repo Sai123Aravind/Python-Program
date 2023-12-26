@@ -1,3 +1,4 @@
+#Finding range
 def range(a,b,c):
     if(a<b):
         print(a,end='')

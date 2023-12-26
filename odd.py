@@ -1,3 +1,4 @@
+#finding sum of odd numbers from 1 to 100
 i=0
 odd=0
 while(i<=100):

@@ -1,3 +1,4 @@
+#Extracting the numbers from string
 char=eval(input("Enter ur mail"))
 i=0
 num=''
