@@ -1,1 +1,5 @@
-(lambda x:x%13==0)(26)
+def change(i=1,j=2):
+    i=i+j
+    j=j+1
+    print(i,j)
+change(j=1,i=2)
