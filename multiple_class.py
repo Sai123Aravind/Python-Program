@@ -11,5 +11,5 @@ class cal(add,sub):
     
 obj=cal()
 obj=add()
-obj=sub()
+obj=sub( )
     
